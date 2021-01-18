@@ -26,6 +26,11 @@
 ![stacked_launch_outcomes](https://github.com/charlieburd/bikesharing/blob/main/Resources/image%20(28).png)
 #### Users Trips by Gender by Weekday - Customer vs Subscriber bike usage throught out the day of the week and by gender
 
+
+## Summary
+
+#### The analysis show that most users are male. Weekdays see usage spikes when people are going too and from work, while weekend usage is more consistent throughout the day. The target customer for NYC Citibike is a male subscriber working a 9-5.
+
 #### Graph 6 
 ![stacked_launch_outcomes](https://github.com/charlieburd/bikesharing/blob/main/Resources/image%20(29).png)
 #### 10 Busiest Stations - Map with the 10 busiest stations for departing bikes, with the street name of the stations and ride number count
@@ -34,16 +39,8 @@
 ![stacked_launch_outcomes](https://github.com/charlieburd/bikesharing/blob/main/Resources/image%20(30).png)
 #### Usage per Hour for the Day - Departing bikes by the hour for a 24-hr day
 
-
-
-#### An additional change we made was getting rid of the button we had previously create during the Module. Instead we wrote in a line of code the allowed the website to listen to the user and automatically display results after a search criteria was entered `d3.selectAll("input").on("change", updateFilters);` I find this feature can be annoying on big site that have many lots of information to display, like when shopping for a TV on Walmart, because website refreshes before all the filter criteria have been entered. However, because Dana's UFO website is only displaying 7 columns of text, it improves the usability.
-![stacked_launch_outcomes](https://github.com/charlieburd/ufos/blob/main/resources/update_filters.png)
-#
-
- 
-
-## Summary
-
 #### A drawback that I can see happening is the user not realizing that their search has already been processed, without a button. They may try hitting enter or reloading the website in an attempt to display the results they are searching for. 
 
 #### Something I would like to add is a Comments search box. I think this could be done quite easily by having the code scroll through the comments and displaying any results that had matching keywords. I would also like to add a feature that would erase the placeholders once any of the fields have begun to be filled out. Right now it could be confusing for the user what is actaully being searched for, because placeholders remain in emply filder boxes.
+
+[link to dashboard](LINK GOES HERE)
