@@ -2,7 +2,7 @@
 
 ## Overview 
 
-#### The Bikesharing Analysis was to look at th bikesharing company, Citibike, in NYC for Aug '19 and see if there is data to support creating a bikesharing company in Des Moines, Iowa.
+#### The Bikesharing Analysis was to look at the bikesharing company, Citibike, in NYC for Aug '19 and see if there is data to support creating a bikesharing company in Des Moines, Iowa.
 
 
 ## Results
@@ -24,7 +24,7 @@
 
 #### Graph 5 
 ![stacked_launch_outcomes](https://github.com/charlieburd/bikesharing/blob/main/Resources/image%20(28).png)
-#### Users Trips by Gender by Weekday - Customer vs Subscriber bike usage throught out the day of the week and by gender
+#### Users Trips by Gender by Weekday - Customer vs Subscriber bike usage throughout the day of the week and by gender
 
 
 ## Summary
@@ -42,3 +42,4 @@
 
 
 [link to dashboard](LINK GOES HERE)
+#### I have spent hours trying to do this^^. I am using a Tableau trial for the desktop app. Tableau does not let me login in and says my email is not registered. Even though I have welcome emails from them when I started my trial. If more info is needed to avoid getting marked down, please slack me. My project is also in my Repository.
