@@ -42,4 +42,4 @@
 
 
 [link to dashboard](LINK GOES HERE)
-#### I have spent hours trying to do this^^. I am using a Tableau trial for the desktop app. Tableau does not let me login in and says my email is not registered. Even though I have welcome emails from them when I started my trial. If more info is needed to avoid getting marked down, please slack me. My project is also in my Repository.
+#### I have spent hours trying to do this^^. I am using a Tableau trial for the desktop app. Tableau does not let me login in and says my email is not registered. Even though I have welcome emails from them when I started my trial. If more info is needed to avoid getting marked down, please slack me. My project is also in my Repository in folder Resources.
